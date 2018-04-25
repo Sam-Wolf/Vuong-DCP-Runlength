@@ -22,7 +22,7 @@
       <Filter>Headerdateien</Filter>
     </ClInclude>
     <ClInclude Include="Runlength.h">
-      <Filter>Quelldateien</Filter>
+      <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
